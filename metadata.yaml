@@ -1,6 +1,9 @@
 _repo: Twentieth-Century-Standard-Puzzle-Book-Three-Parts-in-One-Volume_63884
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "20th Century Standard Puzzle Book\r\n3 Parts in 1 Volume"
+covers:
+- cover_type: archival
+  image_path: 63884-h/images/cover.jpg
 creator:
   editor:
     agent_name: Pearson, A. Cyril (Arthur Cyril)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52651'
     url: http://www.gutenberg.org/2009/agents/52651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63884#Twentieth-Century-Standard-Puzzle-Book-Three-Parts-in-One-Volume
 gutenberg_issued: '2020-11-26'
 gutenberg_type: Text
 identifiers:
