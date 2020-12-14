@@ -1,0 +1,32 @@
+_repo: Twentieth-Century-Standard-Puzzle-Book-Three-Parts-in-One-Volume_63884
+_version: 0.0.1
+alternative_title: "20th Century Standard Puzzle Book\r\n3 Parts in 1 Volume"
+creator:
+  editor:
+    agent_name: Pearson, A. Cyril (Arthur Cyril)
+    alias: Pearson, Arthur Cyril
+    gutenberg_agent_id: '52651'
+    url: http://www.gutenberg.org/2009/agents/52651
+description: ''
+gutenberg_issued: '2020-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Puzzles'
+- !lcsh 'Amusements'
+- GITenberg
+tableOfContents: I. Magic squares, picture puzzles, enigmas, charades, riddles, conundrums,
+  nuts to crack, solutions -- II. Optical illusions, freaks of figures, chess cameos,
+  science at play, curious calculations, word and letter puzzles, solutions -- III.
+  Word puzzles, missing words, letter puzzles, anagrams, picture puzzles, palindromes,
+  solutions.
+title: 'Twentieth Century Standard Puzzle Book
+
+  Three Parts in One Volume'
+url: http://www.gutenberg.org/ebooks/63884
